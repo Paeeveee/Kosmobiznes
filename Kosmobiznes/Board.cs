@@ -6,8 +6,6 @@ using System.Windows.Forms;
 using System;
 using System.Reflection;
 
-//TEST
-
 namespace Kosmobiznes
 {
     class Board: IDisposable
