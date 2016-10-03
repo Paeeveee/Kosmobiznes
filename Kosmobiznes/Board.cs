@@ -5,7 +5,7 @@ using System.Linq;
 using System.Windows.Forms;
 using System;
 using System.Reflection;
-
+//testpaw
 namespace Kosmobiznes
 {
     class Board: IDisposable
