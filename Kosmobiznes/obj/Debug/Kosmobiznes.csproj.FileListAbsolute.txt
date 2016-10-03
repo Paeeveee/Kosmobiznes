@@ -171,3 +171,6 @@ C:\proj\Kosmobiznes\Kosmobiznes\obj\Debug\Kosmobiznes.application
 C:\Users\PAW-PC\Source\Repos\Kosmobiznes\Kosmobiznes\bin\Debug\Kosmobiznes.exe.config
 C:\Users\PAW-PC\Source\Repos\Kosmobiznes\Kosmobiznes\obj\Debug\Kosmobiznes.exe
 C:\Users\PAW-PC\Source\Repos\Kosmobiznes\Kosmobiznes\obj\Debug\Kosmobiznes.pdb
+C:\Users\VM\Source\Repos\Kosmobiznes\Kosmobiznes\bin\Debug\Kosmobiznes.exe.config
+C:\Users\VM\Source\Repos\Kosmobiznes\Kosmobiznes\obj\Debug\Kosmobiznes.exe
+C:\Users\VM\Source\Repos\Kosmobiznes\Kosmobiznes\obj\Debug\Kosmobiznes.pdb
