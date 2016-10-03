@@ -72,7 +72,6 @@ namespace Kosmobiznes
             #endregion
 
             //przypisanie braku ownera do każdej karty
-            //gittest
             for (int i = 0; i < cardList.Count; i++)
             {
                 cardList.ElementAt(i).owner = -1;
